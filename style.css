@@ -8,3 +8,8 @@ body {
 ul {
     color:red ;
 }
+
+.home-img {
+    height: 250px;
+    border: solid green 5px;
+}
